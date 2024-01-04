@@ -1,6 +1,6 @@
 # React + Vite
 
-This is a React.js project bootstrapped with vite.
+This is a React.js project bootstrapped with create vite@latest.
 
 ## Getting Started
 
