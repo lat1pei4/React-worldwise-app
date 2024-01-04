@@ -13,7 +13,7 @@ export default function PageNotFound() {
           navigate("/");
         }}
       >
-        ホームページへ
+        ホームへ
       </Button>
     </div>
   );

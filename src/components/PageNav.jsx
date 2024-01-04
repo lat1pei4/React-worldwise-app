@@ -8,10 +8,10 @@ function PageNav() {
       <Logo />
       <ul>
         <li>
-          <NavLink to="/product">Product</NavLink>
+          <NavLink to="/product">製品</NavLink>
         </li>
         <li>
-          <NavLink to="/pricing">Pricing</NavLink>
+          <NavLink to="/pricing">価格</NavLink>
         </li>
         <li>
           <NavLink to="/login" className={styles.ctaLink}>

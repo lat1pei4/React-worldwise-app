@@ -8,9 +8,9 @@ export default function Homepage() {
       <PageNav />
       <section>
         <h1>
-          あなたは世界を旅します。
+          あなたは世界を旅します
           <br />
-          WorldWiseがあなたの冒険を追跡します。
+          WorldWiseがあなたの冒険を追跡します
         </h1>
         <h2>
           あなたが考えることができるすべての都市に足跡を追跡する世界地図。

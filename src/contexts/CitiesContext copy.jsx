@@ -8,8 +8,7 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL =
-  "https://my-json-server.typicode.com/lat1pei4/fakeapi_for_worldwise/";
+const BASE_URL = "http://localhost:9000";
 // const BASE_URL = "https://api.jsonbin.io/v3/b/6593e8d6dc746540188be74c";
 
 const CitiesContext = createContext();

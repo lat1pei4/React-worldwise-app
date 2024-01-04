@@ -6,7 +6,7 @@ import Spinner from "./Spinner";
 import BackButton from "./BackButton";
 
 const formatDate = (date) =>
-  new Intl.DateTimeFormat("en", {
+  new Intl.DateTimeFormat("ja", {
     day: "numeric",
     month: "long",
     year: "numeric",

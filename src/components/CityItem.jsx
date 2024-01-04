@@ -5,7 +5,7 @@ import styles from "./CityItem.module.css";
 import { useCities } from "../contexts/CitiesContext";
 
 const formatDate = (date) =>
-  new Intl.DateTimeFormat("jp", {
+  new Intl.DateTimeFormat("ja", {
     day: "numeric",
     month: "long",
     year: "numeric",
